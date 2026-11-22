@@ -1,0 +1,4 @@
+model,validation_mae,test_mae
+Mean Baseline,9.843972,9.847138
+Linear Regression,9.042633,9.133498
+Neural Network,5.155214,5.3885207

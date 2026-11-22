@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.vscode/
+
+*.pyc
+
+reports/test_model.keras
+
+train_keras_backup.py

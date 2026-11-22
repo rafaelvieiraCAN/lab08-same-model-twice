@@ -1,0 +1,11 @@
+name: lab08-same-model-twice
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - pip
+
+  - pip:
+      - -r requirements-dev.txt
